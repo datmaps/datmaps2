@@ -50,7 +50,7 @@ Features
       </loc>
    </url>
    <url>
-      <loc>https://nhathuocphuongthanh.com/danh-muc/thuc-pham-chuc-nang
+      <loc> [có](https://nhathuocphuongthanh.com/danh-muc/thuc-pham-chuc-nang)
       </loc>
    </url>
    <url>
