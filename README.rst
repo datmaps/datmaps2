@@ -7,7 +7,7 @@ by providing a basic explanation of how to do it easily.
 Look how easy it is to use:
 
     import project
-    # Get your stuff done [Github](https://github.com)
+   [Github](https://github.com)
 
     project.do_stuff()
 
