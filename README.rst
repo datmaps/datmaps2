@@ -323,7 +323,7 @@ Features
       </loc>
    </url>
    <url>
-      <loc>https://nhathuocphuongthanh.com/san-pham/cerecaps
+      <loc> (test)[https://nhathuocphuongthanh.com/san-pham/cerecaps]
       </loc>
    </url>
 
